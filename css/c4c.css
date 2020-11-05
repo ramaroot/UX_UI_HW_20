@@ -63,6 +63,6 @@ hr {
   }
 
 .hrDeco {
-    margin: -18px auto 18px 8px;
+    margin: -18px auto 18px -10px;
     border-top: 4px solid #A8AA89;
 }
