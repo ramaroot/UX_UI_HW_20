@@ -51,3 +51,18 @@ background-color: rgb(225, 235, 255);
 li.borderless {
     border-top: 0 none;
 }
+
+section {
+    margin-bottom: 20px;
+}
+
+hr {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    border-top: 2px solid rgba(168, 170, 137, 0.4);
+  }
+
+.hrDeco {
+    margin: -18px auto 18px 8px;
+    border-top: 4px solid #A8AA89;
+}
